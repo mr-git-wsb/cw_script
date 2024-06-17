@@ -26,3 +26,30 @@ All key elements are present: ["userId", "id", "title", "completed"]
 Test 3: PASSED
 ----------------------------------------
 ```
+
+# Ruby Calculator Application
+
+This is a simple interactive Ruby calculator application that can add, subtract, multiply, and divide two numbers. The project includes unit tests and a Makefile to automate common tasks.
+
+## Prerequisites
+
+- Ruby (version 2.5 or later)
+
+## Installation
+To install the necessary dependencies, run:
+
+`make install
+`
+## Running the Application
+To run the application, use:
+
+`make run`
+
+You will be prompted to select an operation and input two numbers. The application will then display the result of the operation.
+
+## Running Tests
+To run the unit tests, use:
+
+`make test`
+
+You should see output from RSpec indicating that the tests have passed.
