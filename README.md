@@ -53,3 +53,7 @@ To run the unit tests, use:
 `make test`
 
 You should see output from RSpec indicating that the tests have passed.
+
+## Example output:
+
+![screenshot](screenshot_makefile_usage.png)
